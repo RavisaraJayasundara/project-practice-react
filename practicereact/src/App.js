@@ -5,11 +5,11 @@ import {myData} from './data/myData';
 const NewBlock= ()=>{
   return(
     <>
-      {myData?.map((id,name,city)=>{
+      {myData.map((id,name,city)=>{
         return<Main key="id" name={name} city={city}/>
       })}
     </>
-  );
+  )
 }
 function App() {
   return (

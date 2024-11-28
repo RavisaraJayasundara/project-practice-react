@@ -3,6 +3,7 @@ export const myData = [
       id:'IT001',
       name:'Ravi',
       city:'Kurunegala'
+      image:'https://m.media-amazon.com/images/I/51MnVEDKPwL._AC_.jpg'
     },
     {
       id:'IT002',
