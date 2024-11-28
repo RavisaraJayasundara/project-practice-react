@@ -1,0 +1,22 @@
+export const myData = [
+    {
+      id:'IT001',
+      name:'Ravi',
+      city:'Kurunegala'
+    },
+    {
+      id:'IT002',
+      name:'Udu',
+      city:'Kurunegala'
+    },
+    {
+      id:'IT003',
+      name:'Sara',
+      city:'Kurunegala'
+    },
+    {
+      id:'IT004',
+      name:'Kesara',
+      city:'Kurunegala'
+    }
+  ]
